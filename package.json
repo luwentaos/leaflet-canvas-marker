@@ -1,0 +1,11 @@
+{
+  "name": "leaflet-canvas-marker",
+  "version": "1.0.0",
+  "description": "基于leaflet.canvas-marker做的升级改造",
+  "main": "src/leaflet-canvas-marker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luwentao",
+  "license": "ISC"
+}
